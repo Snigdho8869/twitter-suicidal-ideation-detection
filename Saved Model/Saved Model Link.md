@@ -1,3 +1,5 @@
+# Use tokenizer.pickle as tokenizer to use these models
+
 # LSTM-2-Layer: https://drive.google.com/file/d/1-2LTqttB_tj7wTYcrS5zAXt3oWDgtAiM
 
 # LSTM-1-Layer: https://drive.google.com/file/d/1ZyV1zsCeeQqvuY0pwDHJ5qUOC_TUNeRd
