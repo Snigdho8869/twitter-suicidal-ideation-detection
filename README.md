@@ -49,7 +49,7 @@ This project aims to identify individuals who may be at risk of suicide and cont
 - On the other hand, best-performing DL models were LSTM-2 Layer and BERT, which achieved 94.18% and 96.00% accuracy, respectively.<br>
 - These results demonstrate the effectiveness of using NLP and ML/DL models to detect suicidal ideation on Twitter and highlight the potential for these models to contribute to suicide prevention efforts.
 
-# 🛠️ Flask Web Application Interface
+# 🛠️ Web Application Interface
 
 
 <img src="ui/ui.png" alt="Original Image" width="700">
